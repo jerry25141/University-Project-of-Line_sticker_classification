@@ -1,0 +1,8 @@
+0    capo
+1    LINE
+2    Kanahei
+3    peach_cat
+4    bad_cat
+5    Shiba_Inu_dog
+6    eggplant_brother
+7    fat_shark
