@@ -1,5 +1,4 @@
-# University-Project-of-Line_sticker_classification
-大學四上，人工智慧選修期末專案
+# Line_sticker_classification
 
 > 上傳日期 2021/01/17
 
